@@ -1,6 +1,21 @@
 /* Website Styles */
 
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* Navbar Color */
 .navbar-color {
     background-color: #fbb812;
+}
+
+/* Navbar Font */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Carousel Sizing */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    width: 100%;
 }
