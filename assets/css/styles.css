@@ -20,3 +20,12 @@ body {
     width: 100%;
 }
 
+/* Section 1 Styling */
+.section-one-background-color {
+    background-color: #fbb812;
+}
+
+/* Logo Styling */
+.council-logo {
+    background-color: black;
+}
