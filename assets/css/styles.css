@@ -29,3 +29,13 @@ body {
 .council-logo {
     background-color: black;
 }
+
+@media (max-width: 767px) {
+    .col-sm-12.p-5 {
+        padding: 2rem 1rem !important;
+    }
+
+    .col-sm-12 img {
+        height: 250px !important;
+    }
+}
